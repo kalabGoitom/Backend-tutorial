@@ -1,0 +1,2 @@
+This is the result of async: Hello this is the first txt file
+ and Hello this is the second txt file
